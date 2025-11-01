@@ -4,3 +4,4 @@ Tbc = 0
 for i in a:
     Tbc = Tbc + i
 print(Tbc/len(a))
+print("helloworld")
